@@ -1,7 +1,9 @@
 # Banco QuemPoupaTem 2.0
 
 > Status do projeto: Finalizado
+
 > Este projeto foi desenvolvido durante as férias de julho de 2024.
+
 > Programado no Visual Studio Code.
 
 ## :pencil: Descrição do Projeto
